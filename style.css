@@ -84,7 +84,7 @@ h2 {
     font-size: 28px;
     color: #854632;
     line-height: 100%;
-    margin-bottom: 24px;
+    margin-bottom: 24px; 
 }
 
 .ingredientes li::marker {
